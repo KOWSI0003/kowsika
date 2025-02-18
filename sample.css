@@ -1,0 +1,14 @@
+button{
+    background-color: aquamarine;
+    font-size: larger;
+    color: honeydew;
+}
+
+.form1{
+    background-color: beige;
+    width:fit-content;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 0px 0px 10px rgb(red, green, blue);
+    border-radius: 30px;
+}
